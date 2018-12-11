@@ -1,0 +1,11 @@
+= SLT JUnit 5 Session
+
+
+This workspace contains the samples to follow the JUnit5 session on SLT.
+
+Some samples/tests have documentation, otherwise read the code.
+
+== How to execute Samples
+
+- With the IDE of your choice (IntelliJ or Eclipse)
+- From prompt
